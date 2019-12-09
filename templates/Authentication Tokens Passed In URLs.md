@@ -7,7 +7,7 @@ Low
 
 # Executive Summary
 
-The [TKTK application name] application passes authentication tokens in URLs. Attackers can impersonate targeted users by obtaining their valid authentication token.
+The [TKTK application name] application passes authentication tokens in URLs. Attackers can impersonate targeted users by obtaining their valid authentication tokens.
 
 # Description
 
