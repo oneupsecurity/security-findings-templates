@@ -38,7 +38,7 @@ The following additional locations disclose authentication tokens in URLs:
 
 # Remediation
 
-Avoid sending authentication tokens in URLs to mitigate accidental disclosure. Passing authentication tokens through HTTP header values or POST bodies is recommended.
+Pass authentication tokens through HTTP header values or POST bodies is recommended.  Avoid passing authentication tokens through URLs. 
 
 # References
 
