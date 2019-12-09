@@ -42,4 +42,4 @@ Pass authentication tokens through HTTP header values or POST bodies is recommen
 
 # References
 
-[Top 10-2017 A3-Sensitive Data Exposure]:https://www.owasp.org/index.php/Top_10-2017_A3-Sensitive_Data_Exposure
+"Top 10-2017 A3-Sensitive Data Exposure" - https://www.owasp.org/index.php/Top_10-2017_A3-Sensitive_Data_Exposure
