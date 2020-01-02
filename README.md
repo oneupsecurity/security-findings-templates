@@ -1,6 +1,6 @@
 ## Description
 
-This repository contains templates for security findings reports. 
+This repository contains templates for security assessments.
 
 
 ## Usage
