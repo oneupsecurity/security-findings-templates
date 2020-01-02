@@ -2,7 +2,7 @@
 Use of Components with Known Vulnerabilities
 
 # Risk
-[TKTK High, based on details of vulnerabilities]
+[TKTK Give appropiate rating based on details of vulnerabilities]
 
 # Description
 
