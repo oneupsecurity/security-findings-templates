@@ -5,10 +5,9 @@ This repository contains templates for security findings reports.
 
 ## Usage
 
-Throughout templates, the text [TKTK example content]  will appear. Everything inbetween the square brackets must be updated with appropriate content. 
+Throughout templates the text [TKTK example content]  will appear. Everything inbetween the square brackets must be updated with appropriate content. 
 
-Incase you're wondering, TKTK is an abbreviation for "To Come", which specifies content which is to be provided later
-https://en.wikipedia.org/wiki/To_come_(publishing)
+Incase you're wondering, TKTK is an abbreviation for "To Come", which specifies content which is to be provided later https://en.wikipedia.org/wiki/To_come_(publishing)
 
 ## Copyright, License, and Disclaimer
 
