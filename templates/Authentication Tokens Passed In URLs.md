@@ -13,7 +13,7 @@ The [TKTK application name] application passes authentication tokens in URLs. At
 
 Authentication tokens passed through URLs are susceptible to accidental disclosure. Attackers who steal authentication tokens of users can impersonate the targeted users.  Attackers may gain access to authentication through various attack vectors, such as [TKTK viewing a user's browsing history, obtaining URLs leaked in emails when copied or pasted, or obtaining HTTP request server logs].  
 
-The [TKTK application name] application uses [TKTK JSON Web Tokens, Session Identifiers] in URLs to identify users.  The following HTTP request is sent to [TKTK https://example.com?token=REDACTED ] when a user [TKTK authetnicates in, registers]. The authentication token has been redacted to mitigate accidental disclosure.
+The [TKTK application name] application uses [TKTK JSON Web Tokens, Session Identifiers] in URLs to identify users.  The following HTTP request is sent to [TKTK https://example.com?token=REDACTED ] when a user [TKTK authenticates in, registers]. The authentication token has been redacted to mitigate accidental disclosure.
 
 *HTTP Request:*
 

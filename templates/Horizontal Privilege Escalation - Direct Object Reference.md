@@ -1,5 +1,5 @@
 # Title
-Horizontal Privlege Escalation (Direct Object Reference)
+Horizontal Privilege Escalation (Direct Object Reference)
 
 # Risk
 High

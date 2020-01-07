@@ -11,8 +11,7 @@ The [TKTK application name] application discloses personal identifiable informat
 
 # Description
 
-Personal
-Identifiable Information (PII) is any data which can be used to identify a person. Attackers may use PII to [TKTK commit identify fraud, locate home addresses of users, locate real-time locations of users].
+Personal Identifiable Information (PII) is any data which can be used to identify a person. Attackers may use PII to [TKTK commit identify fraud, locate home addresses of users, locate real-time locations of users].
 
 When [TKTKTK viewing the profile of user@example.com], the following HTTP request and response was received from the endpoint [TKTKTK https://example.com]. The HTTP response discloses the user's [TKTKTK phone number, home address, driver's license number, social security number].
 

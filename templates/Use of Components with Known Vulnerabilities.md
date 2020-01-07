@@ -2,7 +2,7 @@
 Use of Components with Known Vulnerabilities
 
 # Risk
-[TKTK Give appropiate rating based on details of vulnerabilities]
+[TKTK Give appropriate rating based on details of vulnerabilities]
 
 # Description
 
@@ -13,7 +13,7 @@ Attackers often target components with known vulnerabilities to gain unauthorize
 | Description | Installed Version | Available Version | Vulnerability Details | 
 
 
-Following is a [TKTKT provisioning file, HTTP Response] from the [TKTK application] application. On line [TKTK 31] , the [outdated component named TKTK is installed, the version number of the component "TKTK" is returned] 
+Following is a [TKTKT provisioning file, HTTP Response] from the [TKTK application] application. On line [TKTK 31] , the [TKTK outdated component named TKTK is installed, the version number of the component "TKTK" is returned] 
 
 From [TKTK  URL , the method *SomeController.displayPosts()* defined in *filePath* , the function *displayPosts()* defined in *filePath*, etc]:
 ~~~
