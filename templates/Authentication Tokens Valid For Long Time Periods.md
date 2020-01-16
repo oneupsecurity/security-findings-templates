@@ -1,13 +1,13 @@
 # Title
 
-JSON Web Tokens Expire After [TKTK 30 days]
+Authentication Tokens Valid For Long Time Periods
 
 # Risk
 Low
 
 # Executive Summary
 
-The [TKTK application name] application issues JSON Web Tokens which expire [TKTK 30 days after being issued].  Attackers can impersonate targeted users by obtaining their unexpired authentication tokens.
+The [TKTK application name] application issues [TTKTK JSON Web Tokens, Authentication Tokens]  which expire [TKTK 30 days after being issued].  Attackers can impersonate targeted users by obtaining their unexpired authentication tokens.
 
 # Description
 
