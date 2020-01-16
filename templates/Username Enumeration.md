@@ -35,7 +35,7 @@ From [TKTK  URL , the method *SomeController.displayPosts()* defined in *filePat
 
 Differences which can be measured by attackers to determine registration status should be re-factored to remove measurable discrepancies.  
 
-For instance, generic error messages should be returned to the user, which do not disclose registration status. For instance, login pages could display "Invalid username or password" whenever an invalid username or password is given. For registration or forgot password flows, a message such as "An email containing a link should be received shortly, if the account is registered".
+For instance, generic error messages should be returned to the user, which do not disclose registration status. For instance, login pages could display "Invalid username or password" whenever an invalid username or password is given. For registration or forgot password flows, a message such as "An email containing a password-reset link should be received shortly, if the account is registered".
 
 To fix timing discrepancies, ensure the same amount required to process a request with registered and non-registered usernames is the same. This can be achieved by leveraging background tasks in registration and forgot password flows, and avoiding branching logic in authentication procedures whenever possible. For instance, the amount of time spent on database queries for registered and non-registered usernames should be the same. 
 
