@@ -41,7 +41,7 @@ From *[TKTK Source Code PathPath]:*
 
 # Remediation
 
-Do not disclose personal identifiable information of users whenever possible. If a user needs to view or update information, require the user to re-authenticate with the web application. For highly sensitive data, consider only allowing users to display the data, and never reading the data. Ensure all Personal Identifiable Information is protected by authenticated encryption. [TKTK Ensure authorization checks restrict users to accessing their own data.]
+Do not disclose personal identifiable information of users whenever possible. If a user needs to view or update information, require the user to re-authenticate with the web application. For highly sensitive data, consider only allowing users the ability for users to supply the data, and not read the data. Ensure all Personal Identifiable Information is protected by authenticated encryption. [TKTK Ensure authorization checks restrict users to accessing their own data.]
 
 # References
 
