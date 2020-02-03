@@ -8,7 +8,7 @@ Medium
 
 The [TKTK application] does not verify the authenticity of requests. Attackers can force users to send requests to [TKTK add new user accounts, login to an account].
 
-Cross-Site Request Forgery occurs when attackers can force users to send security requests, which are accepted as valid and processed by the targeterd web application. Attackers may force users to send unintentional requests through many methods such as AJAX requests, form posts, or redirecting users to a URL. 
+Cross-Site Request Forgery occurs when attackers can force users to send security sensitive requests, which are accepted as valid and processed by the targeterd web application. Attackers may force users to send unintentional requests through many methods such as AJAX requests, form posts, or redirecting users to a URL. 
   
 Following is code from the [TKTK application name] application. Note how the authetniicity of the request is not verified, such as by validating Anti Cross-Site Requesty Forgerty Tokens. This allows [TKTK].
 
