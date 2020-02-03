@@ -8,7 +8,7 @@ Low
 
 The [TKTK application name] application allows user-supplied URIs to be loaded in IFrames. An attacker can leverage the finding to [TKTK run malicious JavaScript, display fake login forms to steal user credentials].
  
-The use of IFrames allow resources to appear inline with the page being loaded. When the `src` attribute of IFrames can be attacker controlled, malicious resources may be displayed to the user. For instance, attackers may display fake-login forms to capture their credentials. As IFrames appear inline with trusted content, users are likely to trust malicious content as being part of the web page they are viewing. Additionally, IFrame `src` attributes can include data URIs or JavaScript, which can allow arbitrary JavaScript script to execute.
+The use of IFrames allow resources to appear inline with the page being loaded. When the `src` attribute of IFrames can be attacker controlled, malicious resources may be displayed to targeted user. For instance, attackers may display fake-login forms to capture their credentials. As IFrames appear inline with trusted content, users are likely to trust malicious content as being part of the web page they are viewing. Additionally, IFrame `src` attributes can include data URIs or JavaScript, which can allow arbitrary JavaScript script to execute.
 
 Following is a screenshot showing the web page https://example.com being embedded into the page [TKTK url goes here].
 
