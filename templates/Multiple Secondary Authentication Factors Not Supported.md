@@ -11,6 +11,8 @@ The [TKTK application name] application allows users to authenticate using a [On
 
 The following screenshot demonstrates only a single secondary factor authentication can be registered to an account.
 
+[TKTK Place Screentshot here of login form and post login page]
+
 Following is the [TKTKK application name] application's code which handles secondary factor enrollment.  On line [TKTK 31] , note how only a single authetnicator can be enrolled.
 
 From [TKTK  URL , the method *SomeController.displayPosts()* defined in *filePath* , the function *displayPosts()* defined in *filePath*, etc]:
@@ -34,4 +36,4 @@ Allow users to enroll multiple authenticators to reduce the risk of users being 
 
 # References
 "OWASP Top 10-2017 A2-Broken Authentication" - https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication
-"NIST Special Publication 800-63B -�� Digital Identity Guidelines -�� Authentication and Lifecycle Management, Section 6.1.2.2 Adding an Additional Factor to a Single-Factor Account" - https://pages.nist.gov/800-63-3/sp800-63b.html#bindexisting��
+"NIST Special Publication 800-63B - Digital Identity Guidelines -  Authentication and Lifecycle Management, Section 6.1.2.2 Adding an Additional Factor to a Single-Factor Account" - https://pages.nist.gov/800-63-3/sp800-63b.html#bindexisting
