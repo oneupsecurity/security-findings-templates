@@ -31,7 +31,7 @@ From [TKTK  URL , the method *SomeController.displayPosts()* defined in *filePat
 
 # Recommendations
 
-Encode output for the context it is being inserted into to prevent unintended interpretation. For HTML, use of a template engine is highly recommended, as many edge cases after to be considered. Ensure libraries used for encoding have been vetted for security issues. Ensure HTTP response include a `Content-Type` header which represents the data being returned. Use Content Security Policies to mitigate XSS attacks, such as disabling JavaScript's use of *eval()* and processing of inline scripts.
+Encode output for the context it is being inserted into to prevent unintended interpretation. For HTML, use of a template engine is highly recommended, as many encoding edge cases have to be considered. Ensure libraries used for encoding have been vetted for security issues. Ensure HTTP response include a `Content-Type` header which represents the data being returned. Use Content Security Policies to mitigate XSS attacks, such as disabling JavaScript's use of *eval()* and processing of inline scripts.
 
 # References
 
