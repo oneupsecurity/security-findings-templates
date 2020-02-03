@@ -57,7 +57,7 @@ From [TKTK  URL , the method *SomeController.displayPosts()* defined in *filePat
 
 # Recommendations
 
-Restrict URIs which can be displayed in IFrames through the use of input validation and white-listing acceptable URIs. Use Content-Security policies to mitigate browsers from loading untrusted resources.
+Restrict URIs which can be displayed in IFrames through the use of input validation and white-listing. Use Content-Security policies to mitigate browsers from loading untrusted resources.
 
 # References
 
