@@ -6,9 +6,9 @@ Low
 
 # Description
 
-The [TKTK application name] application leaks the registration status of usernames through [TKTK login error messages, HTTP response codes, etc.]. This allows attackers to perform more efficient brute-force attempts to gain unauthorized access to accounts.
+The [TKTK application name] application discloses the registration status of usernames through [TKTK login error messages, HTTP response codes, etc.]. This allows attackers to perform more efficient brute-force attempts to gain unauthorized access to accounts.
 
-Username enumeration occurs when a feature can be leveraged to determine whether a username is or is not registered. Account registration status may be disclosed directly through server responses such as error messages, HTTP response codes, or HTTP redirects. Additionally, account registration status may be determined by side-channel attacks, such as measuring timing differences of processing HTTP requests with registered and non-registers usernames. Attackers who determine valid usernames can use the information to reduce the required search-space to brute force credentials for accounts. 
+Username enumeration occurs when a feature can be leveraged to determine the registration status of a username. Account registration status may be disclosed directly through server responses such as error messages, HTTP response codes, or HTTP redirects. Additionally, account registration status may be determined by side-channel attacks, such as measuring timing differences of processing HTTP requests with registered and non-registers usernames. Attackers who determine valid usernames can use the information to reduce the required search-space to brute force credentials for accounts. 
 
 The [TKTK application name] application leaks the registration status of usernames through [TKTK login error messages, HTTP response codes, etc.]. [TKTK explain what was vulnerable and why. Ex, The user registration function displays an error message if a user already exists.] 
 
