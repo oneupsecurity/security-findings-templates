@@ -7,7 +7,13 @@ This repository contains templates for security assessments.
 
 Throughout templates the text [TKTK example content]  will appear. Everything inbetween the square brackets must be updated with appropriate content. 
 
-Incase you're wondering, TKTK is an abbreviation for "To Come", which specifies content which is to be provided later https://en.wikipedia.org/wiki/To_come_(publishing)
+In case you're wondering, TKTK is an abbreviation for "To Come", which specifies content which is to be provided later https://en.wikipedia.org/wiki/To_come_(publishing)
+
+
+## Writing Tips
+
+Writing accurate and clearly is very important. Imagine you have to re-produce the finding a year from now. Do you have everything in the report necessary to perform in a timely manner? If endpoitns are listed, is it clear which web pages contacted the endpoints? If using a complex payload, does the Proof of Concept contain code to re-produce the payload?
+
 
 ## Copyright, License, and Disclaimer
 
