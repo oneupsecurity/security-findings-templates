@@ -53,6 +53,6 @@ Setting the `SameSite` flag on security sensitive cookies to `strict` or `lax` i
 # References
 
 
-"A2-Broken Authentication" - https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A2-Broken_Authentication
+"OWASP Top 10 2017 A2-Broken Authentication" - https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A2-Broken_Authentication
 "CWE-352: Cross-Site Request Forgery (CSRF)" - https://cwe.mitre.org/data/definitions/352.html
 [TKTK add for .net applications  "Prevent Cross-Site Request Forgery (XSRF/CSRF) attacks in ASP.NET Core]" - https://docs.microsoft.com/en-us/aspnet/core/security/anti-request-forgery?view=aspnetcore-3.1]
