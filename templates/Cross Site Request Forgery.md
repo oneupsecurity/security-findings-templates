@@ -8,9 +8,9 @@ Medium
 
 The [TKTK application] does not verify the authenticity of requests. Attackers can force users to send requests to [TKTK add new user accounts, login to an account].
 
-Cross-Site Request Forgery occurs when attackers can force users to send security sensitive requests, which are accepted as valid and processed by the targeterd web application. Attackers may force users to send unintentional requests through many methods such as AJAX requests, form posts, or redirecting users to a URL. 
+Cross-Site Request Forgery occurs when attackers can force targets users to perform unintended actions against an application. Attackers may force users to perform unintended actions such as by leveraging iframes, AJAX requests, form posts, or tricking users into clicking a maliciously crafted link.
   
-Following is code from the [TKTK application name] application. Note how the authetniicity of the request is not verified, such as by validating Anti Cross-Site Requesty Forgerty Tokens. This allows [TKTK].
+The following code is from the [TKTK application name] application. Note the request's authenticity is not verified. For instance, Anti Cross-Site Request Forgery Tokens are not verified in the code. This allows [TKTK].
 
 From [TKTK  URL , the method *SomeController.addUser()* defined in *filePath* , the function *addUsers()* defined in *filePath*, etc]:
 ~~~
